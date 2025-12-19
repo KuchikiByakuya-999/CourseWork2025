@@ -9,7 +9,8 @@ sudo apt install libx11-dev libxrandr-dev libxinerama-dev libxcursor-dev libxi-d
 sudo apt install libgtk-3-dev libgl-dev
 
 # Установка
-1) Скачать zip, 
-2) go mod tidy
-3) go buiild ./cmd/app
-4) ./app
+1) Скачать zip,
+2) docker-compose up -d
+3) go mod tidy
+4) go build ./cmd/app
+5) ./app
