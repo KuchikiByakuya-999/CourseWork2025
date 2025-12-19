@@ -1,5 +1,5 @@
 # CourseWork2025
-Файл 'workcourse V3.zip'
+Файл 'workcourse V4.zip'
 
 # зависимости X11 + XRANDR
 sudo apt update
