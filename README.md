@@ -10,7 +10,7 @@ sudo apt install libgtk-3-dev libgl-dev
 
 # Установка
 1) Скачать zip,
-2) docker-compose up -d
+2) docker-compose up db
 3) go mod tidy
 4) go build ./cmd/app
 5) ./app
